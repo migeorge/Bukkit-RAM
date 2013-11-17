@@ -1,0 +1,10 @@
+name: RAM
+main: org.mikegeorge.ram.RAM
+version: 0.2.2
+commands:
+  ram:
+    description: Check RAM Usage
+    usage: /ram
+  mem:
+    description: Check RAM Usage
+    usage: /mem
